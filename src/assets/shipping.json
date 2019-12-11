@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Extranjero",
+    "price": 14.99
+  },
+  {
+    "type": "2-Días",
+    "price": 9.99
+  },
+  {
+    "type": "Correos",
+    "price": 2.99
+  }
+]
